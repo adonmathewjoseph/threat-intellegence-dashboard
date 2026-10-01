@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# SQLite Database
+*.db
+*.sqlite3
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+
+# macOS metadata
+.DS_Store
+
+# Streamlit logs/cache
+.streamlit/secrets.toml
